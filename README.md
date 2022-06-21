@@ -8,7 +8,7 @@ We are from class SE1501-NET of FPT University, subject name: PRU221m (a.k.a Adv
 Our group consist of 2 members:  
 Đinh Tuấn Anh. Student code: HE150285. GitHub profile: [DanielChendyrov](https://github.com/DanielChendyrov)  
 Phùng Quang Thông. Student code: HE150340. GitHub profile: [ThongPQHE150340](https://github.com/ThongVipPro)  
-Teacher: SONNT  
+Teacher: Ngô Tùng Sơn - Email: sonnt5@fpt.edu.vn
 
 ## Project description
 * This is a Unity project to demonstrate how to implement the Abstract Factory Pattern in Unity.  
