@@ -17,7 +17,7 @@ Teacher: SONNT
 * The player can create enemies by pressing the "q" or "e" button from the keyboard.  
 * In one hand, when player select "e": abstract factory will create game object and this build random slow creep and fast creep.  
 * In anthor hand, player select "q" create game object, the task of this game object is the same as when the player selects "e" but this create boss.  
-** Player can create many gameobj to create enermy in screen.  
+* Note: Player can create many gameobj to create enermy in screen.  
   The monsters will move in a straight line along the positive x-axis and the player need to
   destroy them as quickly as possible when they are spawned.
 
