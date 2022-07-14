@@ -83,7 +83,7 @@ public class Client : MonoBehaviour
             // This entire section is basically a [for()] loop
             // (If ur a noob, remember not to put any sort of loop into [Update()] method, never!)
             // Turn the loop into some sort of iterative method like below, because [Update()] (or [FixedUpdate()]) itself is already a loop which reiterates every frame
-            // In the case of [Upodate()], the higher fps your PC can go, the worse things will get if you put another loop in it
+            // In the case of [Update()], the higher fps your PC can go, the worse things will get if you put another loop in it
             if (i < portals.Count)
             {
                 portals[i].gameObject.GetComponent<EnemyFactory>().portalTransform = portals[i];
